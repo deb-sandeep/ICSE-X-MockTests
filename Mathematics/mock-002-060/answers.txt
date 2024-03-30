@@ -1,0 +1,38 @@
+SECTION A
+---------------------------------------------
+
+Question 1 : MCQ
+1. (b) [[25, 21][49, 46]]
+2. (b) -1 < x <= 5
+3. (c) {-1, 0, 1, 2, 3}
+4. (a) 0, -5
+5. (b) 23/4 
+6. (d) -2 
+7. (a) 2cosecA
+
+Question 2
+(i)   a=3
+(ii)  x \in [-7, 1.5) - ICSE 2023 
+(iii) n1:n2 = 3:2 
+
+SECTION B
+---------------------------------------------
+Question 3
+(i)  (2x+1)(x-3)(x+2)
+(ii) 
+      Median : 36.15 kg approx (30th term)
+      Upper quartile : 38.2
+      Number of students whose weight is above 37 kg : 31 students
+
+Question 4
+(i)   Proof 
+(ii)  6.54, 0.46
+(iii) {𝑥: −5 <𝑥 ≤2,𝑥∈R} 
+
+Question 5
+(i)   Proof 
+(ii)  [[51, -20][54, -17]] 
+(iii) 7
+
+
+

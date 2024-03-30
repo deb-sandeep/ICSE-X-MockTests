@@ -1,0 +1,25 @@
+1	GST
+2	Banking
+3	Shares and Dividends
+4	Linear Inequations
+5	Quadratic Equations - 1
+6	Quadratic Equations - 2
+7	Ratio and Proportion
+8	Remainder and Factor Theorems
+9	Matrics
+10	AP
+11	GP
+12	Reflection
+13	Section and Mid-point Formulae
+14	Equation of Line
+15	Similarity
+16	Loci
+17	Circles
+18	Tangents and Intersecting Chords
+19	Constructions
+20	Cylinder Cone Sphere
+21	Trigonometric Identities
+22	Heights and Distances
+23	Graphical Representation
+24	Measures of Central Tendency
+25	Probability
