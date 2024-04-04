@@ -1,0 +1,46 @@
+ Section A
+  Question 1
+   (i) - (d) Rs. 2650
+       [MLQB - Page 41 - Q7]
+   (ii) - (c) 
+       [MLQB - Page 61 - Q3]
+   (iii) - (c) 2/3, -1 
+       [MLQB - Page 76 - Q13]
+   (iv) - (a) p=r
+       [MLQB - Page 127 - Q7]
+   (v) - (c) x=0, y=10
+       [MLQB - Page 139 - Q9]
+   (vi) - (b) 1 + sec(theta)
+       [MLQB - Page 353 - Q6]
+   (vii) - (c) 52.4 
+       [MLQB - Page 390  - Q8]
+  Question 2
+   (2.i) - 36 months
+       [MLQB - Page 47 - Q33]
+   (2.ii) - Proof
+       [MLQB - Page 364 - Q59(ii)]
+   (2.iii) - Ogive on page 410. 
+        * Median = 51
+        * No. of students who failed = 46
+        * No. of students who secured grade one = 14
+       [MLQB - Page  - Q]
+ Section B
+  Question 3
+   (3.i) - x=-3 and y=-2 
+       [MLQB - Page 147 - Q47]
+   (3.ii) - Proof 
+       [MLQB - Page 362 - Q53]
+   (3.iii) - {-4, -3, -2, -1, 0, 1, 2, 3, 4}
+       [MLQB - Page 69 - Q40]
+  Question 4
+   (4.i) - n1 : n2 = 3:2 
+       [MLQB - Page 398 - Q37]
+   (4.ii) - k = -2
+       [MLQB - Page 132 - Q34]
+   (4.iii) - X = [[-2, 5][3, 1]] 
+       [MLQB - Page 145 - Q38]
+  Question 5
+   (5.i) - {x:-13<x<23, x in R}
+       [MLQB - Page 72 - Q49.iv]
+   (5.ii) - 22.214 
+       [MLQB - Page 403 - Q57]

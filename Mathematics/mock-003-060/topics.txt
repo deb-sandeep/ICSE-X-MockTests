@@ -1,0 +1,7 @@
+4	Linear Inequations
+5	Quadratic Equations - 1
+6	Quadratic Equations - 2
+8	Remainder and Factor Theorems
+9	Matrics
+21	Trigonometric Identities
+24	Measures of Central Tendency
