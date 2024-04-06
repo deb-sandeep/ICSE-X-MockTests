@@ -1,7 +1,7 @@
 # This gitignore file is inherited from 
 # https://github.com/github/gitignore/blob/main/TeX.gitignore
 # My custom additions are starting below this line till //END
-target/temp/
+target/
 .DS_Store
 
 ## Core latex/pdflatex auxiliary files:
