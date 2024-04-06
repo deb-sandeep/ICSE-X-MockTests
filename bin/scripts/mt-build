@@ -9,4 +9,8 @@ pdflatex \
     -output-format=pdf \
     -recorder \
     -synctex 1 \
-    main.tex
+    testpaper.tex
+
+mv target/temp/testpaper.pdf .
+grep "% ~ " inc/01-section-A.tex inc/02-section-B.tex | cut -d '~' -f2 > testpaper.ans.txt
+

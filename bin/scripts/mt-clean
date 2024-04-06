@@ -1,0 +1,5 @@
+#!/bin/bash
+
+rm -rf target
+mkdir -p target/doc
+mkdir -p target/temp
