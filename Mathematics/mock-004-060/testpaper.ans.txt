@@ -1,0 +1,43 @@
+ Section A
+  Question 1
+   (i) - (c) Rs. 9270 
+       [MLQB - Page 42 - Q10]
+   (ii) - (c) 2:1 
+       [MLQB - Page 104 - Q8]
+   (iii) - (a) 5
+       [MLQB - Page 127 - Q6]
+   (iv) - (c) 3
+       [MLQB - Page 63 - Q13]
+   (v) - (b) 6.54, 0.46 
+       [MLQB - Page 75 - Q9]
+   (vi) - (a) -1/9
+       [MLQB - Page 353 - Q5]
+   (vii) - (c) 1, 5/2
+       [MLQB - Page 139 - Q5]
+  Question 2
+   (2.i) - [[1,0][0,1]]
+       [MLQB - Page 144 - Q 34]
+   (2.ii) - Proof 
+       [MLQB - Page 361 - Q 51]
+   (2.iii) - {-3, -2, -1, 0, 1, 2, 3, 4} 
+       [MLQB - Page 69 - Q41]
+ Section B
+  Question 3
+   (3.i) - Rs. 8421
+       [MLQB - Page 48 - Q 36]
+   (3.ii) - Roots are -8, 1
+       [MLQB - Page 83 - Q 47]
+   (3.iii) - Original number of children = 50 
+       [MLQB - Page 93 - Q 84]
+  Question 4
+   (4.i) - K = 5 or -1
+       [MLQB - Page 111 - Q 40]
+   (4.ii) - k=7
+       [MLQB - Page 135 - Q 47]
+   (4.iii) - x = 3 and y = 2 
+       [MLQB - Page 147 - Q 48]
+  Question 5
+   (5.i) - Proof
+       [MLQB - Page 363 - Q 57]
+   (5.ii) - {1, 2, 3}
+       [MLQB - Page 1 - Q9]

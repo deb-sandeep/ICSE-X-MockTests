@@ -2,7 +2,7 @@
 %
 % Parameter-1 : Width of the image
 % Parameter-2 : Path of image relative to ./inc/res/img/
-\newcommand{\img}[4]{
+\newcommand{\img}[2]{
     \begin{figure}[h]
         \centering
         \includegraphics[width=#1]{./img/#2}
@@ -14,7 +14,7 @@
 %
 % Parameter-1 : Width of the image. Default: 0.4\textwidth
 % Parameter-2 : Path of image relative to ./inc/res/img/
-\newcommand{\rimg}[4][0.4\textwidth]{
+\newcommand{\rimg}[2][0.4\textwidth]{
     \begin{wrapfigure}{r}{#1}
         \centering
         \includegraphics[width=#1]{./img/#2}
@@ -26,7 +26,7 @@
 %
 % Parameter-1 : Width of the image. Default: 0.4\textwidth
 % Parameter-2 : Path of image relative to ./inc/res/img/
-\newcommand{\limg}[4][0.4\textwidth]{
+\newcommand{\limg}[2][0.4\textwidth]{
     \begin{wrapfigure}{l}{#1}
         \centering
         \includegraphics[width=#1]{./img/#2}
