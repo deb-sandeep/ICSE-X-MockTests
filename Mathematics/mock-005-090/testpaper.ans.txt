@@ -1,0 +1,43 @@
+ Section A
+  Question 1
+   (i) - (a) 17 
+       [MLQB - Page 390 - Q 9]
+   (ii) - (b) 3 
+       [MLQB - Page 355 - Q 15]
+   (iii) - (d) -1/4 
+       [MLQB - Page 74 - Q 4]
+   (iv) - (a) 1:8
+       [MLQB - Page 103 - Q 1]
+   (v) - (a) [[4, -4], [8, -8]]
+       [MLQB - Page 141 - Q 18]
+   (vi) - (c) -3 <= x <= 4
+       [MLQB - Page 63 - Q 15]
+   (vii) - (a) Rs. 40,440
+       [MLQB - Page 41 - Q 8]
+  Question 2
+   (2.i) - Maturity value = Rs 20325
+       [MLQB - Page 48 - Q 35]
+   (2.ii) - Proof 
+       [MLQB - Page 366 - Q 63.2]
+   (2.iii) - (x+1)(x-2)(2x+5) 
+       [MLQB - Page 132 - Q 31]
+ Section B
+  Question 3
+   (3.i) - x=2, x=1/2 
+       [MLQB - Page 81 - Q 39]
+   (3.ii) - Proof 
+       [MLQB - Page 361 - Q 47]
+   (3.iii) - a=3, b=-4 
+       [MLQB - Page 133 - Q 40]
+  Question 4
+   (4.i) - [[5, 0], [0, 5]] 
+       [MLQB - Page 149 - Q 57]
+   (4.ii) - {3, 4, 5, 6, 7, 8} 
+       [Balal paper - Q 38]
+   (4.iii) - 76/49 
+       [MLQB - Page 109 - Q 33.ii]
+  Question 5
+   (5.i) - {4} 
+       [Balal paper - Q 30]
+   (5.ii) - Mode = 13.6
+       [MLQB - Page 410 - Q 74]
