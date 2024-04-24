@@ -1,0 +1,43 @@
+ Section A
+  Question 1
+   (i) - (c) 5:3
+       [MLQB - Page 104 - Q 9]
+   (ii) - (b) 
+       [MLQB - Page 142 - Q 22]
+   (iii) - (d) (x+1),(x+2),(x-2)
+       [MLQB - Page 129 - Q 17]
+   (iv) - (b)
+       [MLQB - Page 63 - Q 16]
+   (v) - (c)
+       [MLQB - Page 77 - Q 16]
+   (vi) - (d)
+       [MLQB - Page 354 - Q 9]
+   (vii) - (b)
+       [MLQB - Page 389 - Q 2]
+  Question 2
+   (2.i) - Proof
+       [MLQB - Page 365 - Q 61.ii]
+   (2.ii) - p=2, q=2 
+       [MLQB - Page 145 - Q 38]
+   (2.iii) - (x-1)(x+2)(2x+1)
+       [MLQB - Page 135 - Q 48]
+ Section B
+  Question 3
+   (3.i) - -2 <= x < 2.3 
+       [MLQB - Page 72 - Q 50]
+   (3.ii) - -2 
+       [MLQB - Page 89 - Q 71]
+   (3.iii) - x:y = 2:3 
+       [MLQB - Page 109 - Q 32]
+  Question 4
+   (4.i) - 3 years 
+       [MLQB - Page 43 - Q 17]
+   (4.ii) - Proof 
+       [MLQB - Page 369 - Q 77]
+   (4.iii) - {} 
+       [Balal paper - Q 35]
+  Question 5
+   (5.i) - {x: -5 < x <= 2, x in R} 
+       [MLQB - Page 69 - Q 42]
+   (5.ii) - 22.214
+       [MLQB - Page 403 - Q 57]
