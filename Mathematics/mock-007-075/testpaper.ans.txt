@@ -1,7 +1,5 @@
  Section A
- ---------------------------------------------
   Question 1
-  ----------
    (i) - (a) {1} 
        [MLQB - Page 61 - Q 3]
    (ii) - (d) 25:51
@@ -16,38 +14,29 @@
        [MLQB - Page 75 - Q 6]
    (vii) - (b) Rs. 16937.50
        [MLQB - Page 41 - Q 6]
-
   Question 2
-  ----------
    (2.i) - k = -1 or 2/3
        [MLQB - Page 82 - Q 43]
    (2.ii) - 7/6 
        [MLQB - Page 358 - Q 31]
    (2.iii) - x = +-2 
        [MLQB - Page 110 - Q 35]
-
  Section B
- ---------------------------------------------
   Question 3
-  ----------
    (3.i) - Rate 6% pa 
        [MLQB - Page 47 - Q 30]
    (3.ii) - Proof 
        [MLQB - Page 360 - Q 39]
    (3.iii) - p=2, q=2 
        [MLQB - Page 145 - Q 37]
-
   Question 4
-  ----------
    (4.i) - [[-1 1][1 -1]] 
        [MLQB - Page 146 - Q 42]
    (4.ii) - f=16
        [MLQB - Page 401 - Q 52]
    (4.iii) - (x+2)(2x+3)(3x-2) 
        [MLQB - Page 135 - Q 44]
-
   Question 5
-  ----------
    (5.i) - m = {-1, 4} 
        [MLQB - Page 89 - Q 69]
    (5.ii) - 40.33 
