@@ -1,0 +1,52 @@
+ ........................................
+ Section A
+ ======================================== 
+  Question 1
+  ----------
+   (i) - (a) 
+       [MLQB - Page 391 - Q 11]
+   (ii) - (c) 
+       [MLQB - Page 355 - Q 18]
+   (iii) - (b)
+       [MLQB - Page 128 - Q 11]
+   (iv) - (d)
+       [MLQB - Page 63 - Q 14]
+   (v) - (b)
+       [MLQB - Page 41 - Q 3]
+   (vi) - (d)
+       [MLQB - Page 75 - Q 10]
+   (vii) - (c)
+       [MLQB - Page 107 - Q 23]
+  Question 2
+  ----------
+   (2.i) - r=9%
+       [MLQB - Page 47 - Q 31]
+   (2.ii) - a=3/2, b=0 and c=4/3
+       [MLQB - Page 147 - Q 45]
+   (2.iii) - Mean = 69
+       [MLQB - Page 405 - Q 62]
+ ........................................
+ Section B
+ ======================================== 
+  Question 3
+  ----------
+   (3.i) - -1.5 <= x < 2, x in R 
+       [Balal - Q 25]
+   (3.ii) - x = 3b/a, x = -4a 
+       [MLQB - Page 81 - Q 41]
+   (3.iii) - x=5/8
+       [MLQB - Page 133 - Q 53]
+  Question 4
+  ----------
+   (4.i) - x = (b^2-a^2)/2a 
+       [MLQB - Page 112 - Q 44]
+   (4.ii) - Proof 
+       [MLQB - Page 363 - Q 55]
+   (4.iii) - Rs. 280 
+       [MLQB - Page 48 - Q 39]
+  Question 5
+  ----------
+   (5.i) - a=5, b=-11 
+       [MLQB - Page 134 - Q 41]
+   (5.ii) - 336m 
+       [MLQB - Page 357 - Q 28]
