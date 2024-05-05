@@ -1,0 +1,52 @@
+ ........................................
+ Section A
+ ======================================== 
+  Question 1
+  ----------
+   (i) - (a) 
+       [MLQB - Page 41 - Q 4]
+   (ii) - (b) 
+       [MLQB - Page 65 - Q 24]
+   (iii) - (b)
+       [MLQB - Page 77 - Q 17]
+   (iv) - (c)
+       [MLQB - Page 141 - Q 16]
+   (v) - (b)
+       [MLQB - Page 356 - Q 24]
+   (vi) - (d)
+       [MLQB - Page 128 - Q 10]
+   (vii) - (d)
+       [MLQB - Page 106 - Q 20]
+  Question 2
+  ----------
+   (2.i)  0 or 30 degrees-
+       [MLQB - Page 359 - Q 35]
+   (2.ii) - 129.9 m
+       [MLQB - Page 359 - Q 34]
+   (2.iii) - Mean wage = 1512 
+       [MLQB - Page 402 - Q 56]
+ ........................................
+ Section B
+ ======================================== 
+  Question 3
+  ----------
+   (3.i) - x^2 - 4 \sqrt{3} x + 9 = 0 
+       [MLQB - Page 87 - Q 65]
+   (3.ii) - [[9/2, 25/2][8, 18]] 
+       [MLQB - Page 144 - Q 35]
+   (3.iii) - p=5, (2x+1)(x+1)(x-2)
+       [MLQB - Page 136 - Q 49]
+  Question 4
+  ----------
+   (4.i) - 7% pa 
+       [MLQB - Page 43 - Q 15]
+   (4.ii) - 3 
+       [MLQB - Page 111 - Q 43.i]
+   (4.iii) - -4 <= x <= 1
+       [Balal - Q 28]
+  Question 5
+  ----------
+   (5.i) - x=48
+       [MLQB - Page 93 - Q 85]
+   (5.ii) - [[16, 14][25, -23]] 
+       [MLQB - Page 146 - Q 40]
