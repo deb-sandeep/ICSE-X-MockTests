@@ -1,0 +1,52 @@
+ ........................................
+ Section A
+ ======================================== 
+  Question 1
+  ----------
+   (i) - (c) 
+       [MLQB - Page 388 - Q 1]
+   (ii) - (c) 
+       [MLQB - Page 158 - Q 6]
+   (iii) - (d)
+       [MLQB - Page 141 - Q 19]
+   (iv) - (b)
+       [MLQB - Page 126 - Q 1]
+   (v) - (a)
+       [MLQB - Page 77 - Q 20]
+   (vi) - (a)
+       [MLQB - Page 353 - Q 4]
+   (vii) - (b)
+       [MLQB - Page 159 - Q 13]
+  Question 2
+  ----------
+   (2.i) - Proof
+       [MLQB - Page 360 - Q 42]
+   (2.ii) - P=7
+       [MLQB - Page 400 - Q 50]
+   (2.iii) - 25.36m
+       [MLQB - Page 373 - Q 92]
+ ........................................
+ Section B
+ ======================================== 
+  Question 3
+  ----------
+   (3.i) - a = -1
+       [MLQB - Page 134 - Q 43]
+   (3.ii) - (x-1)(x-2)(x+13) 
+       [MLQB - Page 131 - Q 25]
+   (3.iii) - a=5, d=3 
+       [MLQB - Page 165 - Q 53]
+  Question 4
+  ----------
+   (4.i) - x = 36 
+       [MLQB - Page 147 - Q 46]
+   (4.ii) - 3.64, -0.14
+       [MLQB - Page 87 - Q 64]
+   (4.iii) - 9 months
+       [MLQB - Page 49 - Q 9]
+  Question 5
+  ----------
+   (5.i) - a=37, b=26
+       [MLQB - Page 137 - Q 5]
+   (5.ii) - a=0, b=19, third factor (x+2) 
+       [IITF - Page 3.5 - Ex 3.6]
