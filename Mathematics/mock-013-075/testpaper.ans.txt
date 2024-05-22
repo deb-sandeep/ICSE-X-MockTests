@@ -1,0 +1,52 @@
+ ........................................
+ Section A
+ ======================================== 
+  Question 1
+  ----------
+   (i) - (c) 
+       [MLQB - Page 354 - Q 13]
+   (ii) - (a) 
+       [MLQB - Page 322 - Q 10]
+   (iii) - (c)
+       [MLQB - Page 159 - Q 16]
+   (iv) - (a)
+       [MLQB - Page 129 - Q 18]
+   (v) - (d)
+       [MLQB - Page 142 - Q 21]
+   (vi) - (a)
+       [MLQB - Page 74 - Q 5]
+   (vii) - (d)
+       [MLQB - Page 159 - Q 14]
+  Question 2
+  ----------
+   (2.i) - 110 m
+       [MLQB - Page 376 - Q 99]
+   (2.ii) - X = [[4, 4][0, 4]], Y = [[1, -2],[0, 5]] 
+       [MLQB - Page 149 - Q 55]
+   (2.iii) - 6.53 and -1.53 
+       [MLQB - Page 86 - Q 61]
+ ........................................
+ Section B
+ ======================================== 
+  Question 3
+  ----------
+   (3.i) - (x-1)(x+1)(x-3)(x+3) 
+       [IITF - Page 3.5 - Ex 3.4]
+   (3.ii) - Proof 
+       [MLQB - Page 362 - Q 56]
+   (3.iii) - x = 6 
+       [MLQB - Page 78 - Q 21]
+  Question 4
+  ----------
+   (4.i) - (x-2) or (x+2) 
+       [IITF - Page 3.7 - Ex 3.9]
+   (4.ii) - 10,5 
+       [MLQB - Page 83 - Q 48]
+   (4.iii) - d
+       [MLQB - Page 161 - Q 28]
+  Question 5
+  ----------
+   (5.i) - 2:3 
+       [MLQB - Page 106 - Q 18]
+   (5.ii) - 49.6
+       [MLQB - Page 404 - Q 60]
