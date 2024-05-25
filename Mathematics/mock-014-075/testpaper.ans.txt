@@ -1,0 +1,52 @@
+ ........................................
+ Section A
+ ======================================== 
+  Question 1
+  ----------
+   (i) - (a) 
+       [MLQB - Page 355 - Q 16]
+   (ii) - (b) 
+       [MLQB - Page 175 - Q 2]
+   (iii) - (a)
+       [MLQB - Page 158 - Q 11]
+   (iv) - (b)
+       [MLQB - Page 140 - Q 14]
+   (v) - (c)
+       [MLQB - Page 78 - Q 22]
+   (vi) - (b)
+       [MLQB - Page 64 - Q 18]
+   (vii) - (d)
+       [MLQB - Page 41 - Q 5]
+  Question 2
+  ----------
+   (2.i) - 45 degree
+       [MLQB - Page 358 - Q 32]
+   (2.ii) - -13, -8 and -3 
+       [MLQB - Page 174 - Q 10]
+   (2.iii) - r = 21 cm, vol = 34650 cm3
+       [MLQB - Page 328 - Q 32]
+ ........................................
+ Section B
+ ======================================== 
+  Question 3
+  ----------
+   (3.i) - C = [2,1]
+       [MLQB - Page 147 - Q 49]
+   (3.ii) - a = -22/7, b=39/7
+       [MLQB - Page 137 - Q 12]
+   (3.iii) - y(sqrt(3)+1) 
+       [MLQB - Page 371 - Q 86]
+  Question 4
+  ----------
+   (4.i) - p = 1,9 
+       [MLQB - Page 82 - Q 42]
+   (4.ii) - -4 <= x < 5
+       [MLQB - Page 70 - Q 43]
+   (4.iii) - 2541
+       [MLQB - Page 332 - Q 56]
+  Question 5
+  ----------
+   (5.i) - 18 months
+       [MLQB - Page 44 - Q 20]
+   (5.ii) - 49.6
+       [MLQB - Page 404 - Q 60]
