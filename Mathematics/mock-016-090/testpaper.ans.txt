@@ -1,0 +1,60 @@
+ ........................................
+ Section A
+ ======================================== 
+  Question 1
+  ----------
+   (i) - (d) 
+       [EC - Page 27 - Q 11]
+   (ii) - (b) 
+       [EC - Page 94 - Q 202]
+   (iii) - (d)
+       [EC - Page 106 - Q 5]
+   (iv) - (d)
+       [MLQB - Page 140 - Q 10]
+   (v) - (c)
+       [EC - Page 302 - Q 6]
+   (vi) - (a)
+       [EC - Page 325 - Q 4]
+   (vii) - (d)
+       [MLQB - Page 322 - Q 5]
+  Question 2
+  ----------
+   (2.i) - k = 8
+       [MLQB - Page 133 - Q 37]
+   (2.ii) - Proof 
+       [EC - Page 332 - Q 29]
+   (2.iii) - r2 = 3, surface area = 595.2 cm^2 
+       [MLQB - Page 332 - Q 58]
+ ........................................
+ Section B
+ ======================================== 
+  Question 3
+  ----------
+   (3.i) - 0 or 60 degree 
+       [MLQB - Page 359 - Q 37.ii]
+   (3.ii) - r=1/3
+       [EC - Page 146 - Q 23]
+   (3.iii) - 9735 m^2
+       [EC - Page 309 - Q 36]
+  Question 4
+  ----------
+   (4.i) - x = 1,2 
+       [MLQB - Page 79 - Q 24]
+   (4.ii) - x = 25
+       [MLQB - Page 110 - Q 34]
+   (4.iii) - 8
+       [EC - Page 119 - Q 2]
+  Question 5
+  ----------
+   (4.i) - 32nd term
+       [MLQB - Page 164 - Q 45]
+   (4.ii) - k = -2
+       [EC - Page 112 - Q 31]
+   (4.iii) - Roots are sqrt{6} and -sqrt{6}/3 
+       [EC - Page 63 - Q 7.b]
+  Question 6
+  ----------
+   (5.i) - 10% p.a.
+       [EC - Page 33 - Q 35]
+   (5.ii) - Proof
+       [EC - Page 101 - Q 47]
