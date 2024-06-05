@@ -1,0 +1,100 @@
+ ........................................
+ Section A
+ ======================================== 
+  Question 1
+  ----------
+   (i) - (a) 
+       [MLQB - Page 34 - Q 20]
+   (ii) - (d) 
+       [MLQB - Page 35 - Q 32]
+   (iii) - (a)
+       [MLQB - 23/21]
+   (iv) - (d)
+       [MLQB - 22/7]
+   (v) - (b)
+       [MLQB - 1/1]
+   (vi) - (b)
+       [MLQB - 51/16]
+   (vii) - (b)
+       [MLQB - 52/25]
+  Question 2
+  ----------
+   (2.i) -
+     a) [MLQB - 36/34]
+        Zero
+     b) [MLQB - 53/32]
+        Definition of machine
+     c) [MLQB - 38/67]
+        Yes. Potential energy
+        
+   (2.ii) - 
+     a) [MLQB - 25/50]
+        Centripetal force, towards the center
+     b) [MLQB - 37/59]
+        
+   (2.iii) - 
+     a) [MLQB - 38/66]
+       Man moving along the slope. While moving along the 
+       height, he works against gravity.
+     b) [MLQB - 37/36]
+       1J = 10^7 erg 
+   (2.iv) - [MLQB - 42/99]
+     a) Work done = 600 J
+     b) Gain in P.E. = 450 J
+        
+   (2.v) - 
+     a) [MLQB - 38/70]
+       Potential energy of the bow string 
+     b) [MLQB - 25/47.ii]
+       Intersection of medians
+        
+   (2.vi) - 
+     a) [MLQB - 37/49]
+        Energy, 1 eV = 1.6 x 10^{-19} J
+     b) [MLQB - 38/81]
+        Body of mass 50 kg will have more K.E.
+        
+ ........................................
+ Section B
+ ======================================== 
+  Question 3
+  ----------
+   (3.i) - 
+       [MLQB - 40/90]
+         Work done by a source of power 1kW in one hour
+       [MLQB - ]
+         1kWh = 3.6x10^6J
+       [MLQB - ]
+         Product of the magnide of force and the perpendicular
+         distance of the line of action of force from axis 
+         of rotation.
+   (3.ii) - t=500 sec
+       [MLQB - 43/106]
+   (3.iii) - 
+       [MLQB - 54/42]
+       * Make the lower block as light as possible
+       * Reduce friction in the pulleys
+       [MLQB - 37/60]
+       * Electrical to sound 
+       * Electrical to heat and light
+  Question 4
+  ----------
+   (4.i) - 
+       [MLQB - Page 40 - Q 89]
+   (4.ii) - 
+       [MLQB - 25/39]
+       [MLQB - 25/41]
+   (4.iii) - 52.5 gf
+       [MLQB - 28/73]
+  Question 5
+  ----------
+   (5.i) - F = 50N, Power = 1000 W
+       [MLQB - Page 43 - Q 102]
+   (5.ii) - Tension is string is same. # strands pulling 
+       the load increases. Hence MA increases.
+       [MLQB - 54/41]
+   (5.iii) - 
+     a) 10 J
+     b) 10 J
+     c) 10 m/s
+       [MLQB - Page  - Q]
