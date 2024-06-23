@@ -1,0 +1,82 @@
+ ........................................
+ Section A
+ ======================================== 
+  Question 1
+  ----------
+   (i) - d. Only IGST is levied for intra-state transactions
+       MLQB - 30/7
+   (ii) - c
+       MLQB - 40/2
+   (iii) - a
+       MLQB - 65/26
+   (iv) - a
+       MLQB - 75/8
+   (v) - c
+       MLQB - 322/7
+   (vi) - d 
+       MLQB - 30/10
+   (vii) - a
+       MLQB - 322/8
+   (viii) - c
+       MLQB - 389/3
+   (ix) - a
+       MLQB - 209/3
+   (x) - a
+       MLQB - 105/11
+   (xi) - c
+       MLQB - 129/14
+   (xii) - b
+       MLQB - 158/7
+   (xiii) - a
+       MLQB - 76/15
+   (xiv) - b
+       MLQB - 44/19
+  Question 2
+  ----------
+   (2.i) - 5 cm
+       MLQB - 328/33
+   (2.ii) - a
+       MLQB - 143/27
+   (2.iii) - f=15
+       MLQB - 398/38
+  Question 3
+  ----------
+   (3.i) - (x+1)(x+3)(3x-2)
+       MLQB - 137/10
+   (3.ii) - 25 and 18
+       MLQB - 83/51
+   (3.iii) - 20 sqrt{3}, h = 40m
+       MLQB - 374/96
+ ........................................
+ Section B
+ ======================================== 
+  Question 4
+  ----------
+   (4.i) - {x: 7/5 < x < 13/5, x in R}
+       MLQB - 71/49.v
+   (4.ii) - 12, 14
+       MLQB - 84/52
+   (4.iii) - 320, 160, 240
+       MLQB - 111/42
+  Question 5
+  ----------
+   (5.i) - x= -2b/3a, -2b/a
+       MLQB - 86/63.i
+   (5.ii) - Proof
+       MLQB - 364/59.i
+   (5.iii) - a_n = log( a x b^{n-1} )
+       MLQB - 163/41
+  Question 6
+  ----------
+   (6.i) - 40(\sqrt{3} + 1)
+       MLQB - 176/5
+   (6.ii) - {-3, -2, -1, 0, 1}
+       MLQB - 68/iv
+   (6.iii) - Perimeter 32 units
+       MLQB - 213/15
+  Question 7
+  ----------
+   (7.i) - b
+       MLQB - 46/27
+   (7.ii) - i) Rs. 30,000 ii) Rs. 29,160 iii) Rs. 160
+       MLQB - 35/32
