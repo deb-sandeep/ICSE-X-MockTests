@@ -1,0 +1,92 @@
+ ........................................
+ Topics
+    1. Recurring deposit
+    2. Inequalities
+    3. Quadratic equation
+    4. Ratio and Proportion
+    5. Remainder and Factor theorem
+    6. Matrices
+    7. Statistics
+    
+ ........................................
+ Section A
+ ======================================== 
+  Question 1
+  ----------
+   (i) - d
+       EC - 25/1
+   (ii) - a
+       EC - 65/2
+   (iii) - c
+       EC - 48/1
+   (iv) - d
+       EC - 105/2
+   (v) - a
+       EC - 120/8
+   (vi) - b
+       EC - 26/5
+   (vii) - c
+       EC - 382/5
+   (viii) - b
+       EC - 107/11
+   (ix) - c
+       EC - 49/7
+   (x) - d
+       EC - 67/16
+   (xi) - b
+       EC - 70/30
+   (xii) - a
+       EC - 50/11
+   (xiii) - a
+       EC - 93/19
+   (xiv) - c
+       EC - 50/10
+  Question 2
+  ----------
+   (2.i) - x=-3, y=-2
+       EC - 129/42
+   (2.ii) - k=7
+       EC - 111/29
+   (2.iii) - Rupee 484
+       EC - 30/25
+  Question 3
+  ----------
+   (3.i) - -48/5
+       EC - 52/22
+   (3.ii) - (a+b)/3, (a-b)/3
+       EC - 69/24
+   (3.iii) - x=3
+       EC - 101/48
+ ........................................
+ Section B
+ ======================================== 
+  Question 4
+  ----------
+   (4.i) - x=2, y=10
+       EC - 130/45
+   (4.ii) - Rs. 280
+       EC - 31/29
+   (4.iii) - 32.5
+       EC - 386/25
+  Question 5
+  ----------
+   (5.i) - x=4
+       EC - 76/43
+   (5.ii) - x=30
+       EC - 98/35
+   (5.iii) - [x:-5 < x <= 2]
+       EC - 55/33
+  Question 6
+  ----------
+   (6.i) - 48 months or 4 years
+       EC - 32/33
+   (6.ii) - 10:6:5
+       EC - 96/25
+   (6.iii) - f = 16
+       EC - 389/32
+  Question 7
+  ----------
+   (7.i) - [[-17, -16][-12, -5]]
+       EC - 132/53
+   (7.ii) - 40.33
+       EC - 386/26
