@@ -1,0 +1,83 @@
+ Maths Mock - M021
+ ........................................
+ Section A
+ ======================================== 
+  Question 1
+  ----------
+   (i) - b
+       MLQB - 64/20
+   (ii) - b
+       MLQB - 210/4
+   (iii) - c
+       MLQB - 52/8
+   (iv) - c
+       MLQB - 104/5
+   (v) - c
+       MLQB - 268/3
+   (vi) - b
+       MLQB - 356/22
+   (vii) - b
+       MLQB - 30/11
+   (viii) - b
+       MLQB - 75/7
+   (ix) - a
+       MLQB - 159/17
+   (x) - b
+       MLQB - 42/11
+   (xi) - c
+       MLQB - 128/9
+   (xii) - a
+       MLQB - 140/13
+   (xiii) - c
+       MLQB - 175/3
+   (xiv) - a
+       MLQB - 53/18
+  Question 2
+  ----------
+   (2.i) - (x+1)(x-2)(x+2)
+       MLQB - 135/45
+   (2.ii) - v1:v2 = 1:2
+       MLQB - 328/35
+   (2.iii) - Total camels = 36 
+       MLQB - 92/81
+  Question 3
+  ----------
+   (3.i) - 1 + cosA sinA
+       MLQB - 355/19
+   (3.ii) - ABC = 36 degree, BAD = 36 degree, ABD = 54 degree
+       MLQB - 290/83
+   (3.iii) - i) 500, ii) 3000 and iii) 13%
+       MLQB - 55/30
+ ........................................
+ Section B
+ ======================================== 
+  Question 4
+  ----------
+   (4.i) - P \intersect Q = {4}
+       EC - 70/45
+   (4.ii) - x^2 + y^2 - xy
+       EC - 112/45.ii
+   (4.iii) - Proof
+       EC - 368/70
+  Question 5
+  ----------
+   (5.i) - x=3, y=-2
+       EC - 146/44
+   (5.ii) - x=3
+       EC - 114/54
+   (5.iii) - i) 144, ii) 17,496
+       EC - 35/33
+  Question 6
+  ----------
+   (6.i) - {x: x > -2, x \in R}
+       EC - 71/48
+   (6.ii) -  (10 \sqrt{3} + 6)/3 cm
+       EC - 372/90
+   (6.iii) - i) 9,000 ii) 1,440 and iii) 180
+       EC - 57/38
+  Question 7
+  ----------
+   (7.i) - 10 and 15 minutes, respectively
+       EC - 92/80
+   (7.ii) - 42
+       EC - 396/27
